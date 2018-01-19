@@ -31,3 +31,9 @@
 7. Utilize os operadores relacionais e verifique se **num1** é menor que **num2**, utilize a função *var_dump()* para exibir o resultado;
 8. Utilize os operadores relacionais e verifique se **num1** é maior ou igual que **num2**, utilize a função *var_dump()* para exibir o resultado;
 9. Utilize os operadores relacionais e verifique se **num1** é menor ou igual que **num2**, utilize a função *var_dump()* para exibir o resultado;
+
+### Operadores lógicos
+
+<!-- ^ && and -->
+<!-- v !! or  -->
+<!-- ~ ! NOT  -->
