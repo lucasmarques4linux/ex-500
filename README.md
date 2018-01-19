@@ -1,6 +1,6 @@
 # Atividade para prática do curso 500 4Linux
 
-- [Váriaveis](https://github.com/lucasmarques4linux/ex-500/blob/master/variaveis/README.md)
+- [Variáveis](https://github.com/lucasmarques4linux/ex-500/blob/master/variaveis/README.md)
 - [Operadores](https://github.com/lucasmarques4linux/ex-500/blob/master/operadores/README.md)
 - [Strings](https://github.com/lucasmarques4linux/ex-500/blob/master/strings/README.md)
 - [Estrutura de Controle - If, Else e Switch](https://github.com/lucasmarques4linux/ex-500/blob/master/controle/README.md)
