@@ -34,6 +34,13 @@
 
 ### Operadores lógicos
 
+1. Crie duas variáveis booleanas, **a** e **b**;
+2. Utilize os operadores lógicos criar expressões: **a** e **b** forem verdadeiros (Das duas formas possíveis); 
+2. Utilize os operadores lógicos criar expressões: **a** ou **b** forem verdadeiros (Das duas formas possíveis); 
+2. Utilize os operadores lógicos criar expressões: **a** ou **b** forem verdadeiros, mas não os dois; 
+2. Utilize os operadores lógicos criar expressões: Verdadeiro se **a** for falso; 
+2. Utilize os operadores lógicos criar expressões: Verdadeiro se **b** for falso; 
+
 <!-- ^ && and -->
 <!-- v !! or  -->
 <!-- ~ ! NOT  -->
