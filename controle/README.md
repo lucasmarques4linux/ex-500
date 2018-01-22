@@ -17,3 +17,5 @@
 1. Crie duas variáveis **nota** e **frequencia** e atribua valores a elas;
 2. Monte uma estrutura que analise as duas variáveis e seguindo a seguinte condição imprima algo na tela;
 > Se nota maior ou igual a 7 e frequencia maior ou igual a 8 -> Imprima aprovado;
+> Se nota maior ou igual a 5 ou nota menor que 7 e frequencia maior ou igual a 8 -> Imprima recuperação;
+> Se nota menor que 5 ou frequencia menor que 8 -> Imprima reprovado;
