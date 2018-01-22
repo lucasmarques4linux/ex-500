@@ -19,3 +19,8 @@
 > * Se nota maior ou igual a 7 e frequencia maior ou igual a 8 -> Imprima aprovado;
 > * Se nota maior ou igual a 5 ou nota menor que 7 e frequencia maior ou igual a 8 -> Imprima recuperação;
 > * Se nota menor que 5 ou frequencia menor que 8 -> Imprima reprovado;
+
+
+### SWITCH e CASE
+
+1. Utilize o exemplo do exercício anterior e monte a estrutura utilizando *SWITCH e CASE*;
