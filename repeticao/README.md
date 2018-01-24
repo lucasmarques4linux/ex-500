@@ -13,3 +13,8 @@
 ### FOR
 
 1. Repita o exercício anterior utilizando agora a estrutura *FOR*;
+
+### BREAK e CONTINUE
+
+1. Utilize qualquer uma das estruturas acima, mostre os números de 10 à 50 ignorando os múltiplos de 5;
+2. Utilize qualquer uma das estruturas acima, mostre os números de 200 à 300 mas quando encontrar o número 277 ele deve parar a execução;
