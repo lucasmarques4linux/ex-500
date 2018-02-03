@@ -36,5 +36,8 @@
     - Funções do PostgreSQL(à fazer)
 - Projeto Final(à fazer)
 
+__Contato__
+[Email](mailto:lucasmarques73@hotmail.com)
+
 __Licença__
 - [MIT](https://github.com/lucasmarques4linux/ex-500/blob/master/LICENSE)
